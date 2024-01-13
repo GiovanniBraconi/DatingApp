@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="071ef1f9-f60f-42e1-8fa4-ea24ec07678b" name="DDL Mapping">
+      <data-sources db="79ab93f3-ca83-4621-9de3-c925e0beaded" ddl="af31d37f-07c6-45a6-83da-76b0c8be50fd" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="af31d37f-07c6-45a6-83da-76b0c8be50fd" />
+          <option name="name" value="datingapp" />
+          <option name="dbmsName" value="SQLITE" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/API/datingapp.db" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
